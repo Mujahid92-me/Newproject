@@ -3,3 +3,4 @@ added textformerge
 copyright branch for not fastforward
 simplechanges commit
 main changes in filenew.txt
+adding another change after rebase
